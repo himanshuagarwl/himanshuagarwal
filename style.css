@@ -4,10 +4,30 @@ body {
     margin-right: 80px;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
 .hero-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.service-section {
+    margin-top: 40px;
+}
+
+.experience-section {
+    margin-top: 40px;
 }
 
 .experience {
@@ -16,6 +36,14 @@ body {
 
 .company-name {
     margin-right: 40px;
+}
+
+.education-section {
+    margin-top: 40px;
+}
+
+.contact-section {
+    margin-top: 40px;
 }
 
 .contact-link {
